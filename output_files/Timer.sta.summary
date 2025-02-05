@@ -1,0 +1,401 @@
+------------------------------------------------------------
+Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'clk'
+Slack : -102.141
+TNS   : -6852.290
+
+Type  : Slow 1200mV 85C Model Setup 'pause_select_buffer'
+Slack : -101.066
+TNS   : -1768.296
+
+Type  : Slow 1200mV 85C Model Setup 'rst_down_buffer'
+Slack : -5.850
+TNS   : -9.782
+
+Type  : Slow 1200mV 85C Model Setup 'lap_stopwatch_buffer'
+Slack : -4.848
+TNS   : -4.848
+
+Type  : Slow 1200mV 85C Model Setup 'final_clock'
+Slack : -4.186
+TNS   : -88.932
+
+Type  : Slow 1200mV 85C Model Setup 'pause_clock_buffer'
+Slack : -3.866
+TNS   : -3.866
+
+Type  : Slow 1200mV 85C Model Setup 'pause_down_buffer'
+Slack : -3.507
+TNS   : -3.507
+
+Type  : Slow 1200mV 85C Model Hold 'clk'
+Slack : 0.200
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'pause_select_buffer'
+Slack : 0.414
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'final_clock'
+Slack : 0.669
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'pause_down_buffer'
+Slack : 3.079
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'rst_down_buffer'
+Slack : 3.148
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'pause_clock_buffer'
+Slack : 3.442
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'lap_stopwatch_buffer'
+Slack : 3.985
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Recovery 'clk'
+Slack : -6.347
+TNS   : -1097.700
+
+Type  : Slow 1200mV 85C Model Recovery 'lap_stopwatch_buffer'
+Slack : -4.879
+TNS   : -4.879
+
+Type  : Slow 1200mV 85C Model Recovery 'pause_clock_buffer'
+Slack : -4.333
+TNS   : -4.333
+
+Type  : Slow 1200mV 85C Model Recovery 'pause_select_buffer'
+Slack : -1.558
+TNS   : -43.905
+
+Type  : Slow 1200mV 85C Model Recovery 'rst_down_buffer'
+Slack : -1.333
+TNS   : -2.199
+
+Type  : Slow 1200mV 85C Model Recovery 'pause_down_buffer'
+Slack : -0.914
+TNS   : -0.914
+
+Type  : Slow 1200mV 85C Model Removal 'rst_down_buffer'
+Slack : 0.077
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'pause_down_buffer'
+Slack : 0.183
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'pause_select_buffer'
+Slack : 0.560
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'clk'
+Slack : 1.426
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'pause_clock_buffer'
+Slack : 3.860
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'lap_stopwatch_buffer'
+Slack : 3.997
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'clk'
+Slack : -3.000
+TNS   : -784.471
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'final_clock'
+Slack : -3.000
+TNS   : -3.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'pause_select_buffer'
+Slack : 0.391
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'pause_down_buffer'
+Slack : 0.409
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'lap_stopwatch_buffer'
+Slack : 0.413
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'pause_clock_buffer'
+Slack : 0.413
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'rst_down_buffer'
+Slack : 0.417
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'clk'
+Slack : -94.516
+TNS   : -6324.197
+
+Type  : Slow 1200mV 0C Model Setup 'pause_select_buffer'
+Slack : -93.704
+TNS   : -1640.720
+
+Type  : Slow 1200mV 0C Model Setup 'rst_down_buffer'
+Slack : -5.347
+TNS   : -8.929
+
+Type  : Slow 1200mV 0C Model Setup 'lap_stopwatch_buffer'
+Slack : -4.395
+TNS   : -4.395
+
+Type  : Slow 1200mV 0C Model Setup 'final_clock'
+Slack : -3.781
+TNS   : -79.426
+
+Type  : Slow 1200mV 0C Model Setup 'pause_clock_buffer'
+Slack : -3.472
+TNS   : -3.472
+
+Type  : Slow 1200mV 0C Model Setup 'pause_down_buffer'
+Slack : -3.155
+TNS   : -3.155
+
+Type  : Slow 1200mV 0C Model Hold 'clk'
+Slack : 0.254
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'pause_select_buffer'
+Slack : 0.521
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'final_clock'
+Slack : 0.639
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'rst_down_buffer'
+Slack : 2.826
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'pause_down_buffer'
+Slack : 2.843
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'pause_clock_buffer'
+Slack : 3.158
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'lap_stopwatch_buffer'
+Slack : 3.673
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Recovery 'clk'
+Slack : -5.793
+TNS   : -985.679
+
+Type  : Slow 1200mV 0C Model Recovery 'lap_stopwatch_buffer'
+Slack : -4.476
+TNS   : -4.476
+
+Type  : Slow 1200mV 0C Model Recovery 'pause_clock_buffer'
+Slack : -3.945
+TNS   : -3.945
+
+Type  : Slow 1200mV 0C Model Recovery 'pause_select_buffer'
+Slack : -1.466
+TNS   : -40.496
+
+Type  : Slow 1200mV 0C Model Recovery 'rst_down_buffer'
+Slack : -1.181
+TNS   : -1.921
+
+Type  : Slow 1200mV 0C Model Recovery 'pause_down_buffer'
+Slack : -0.841
+TNS   : -0.841
+
+Type  : Slow 1200mV 0C Model Removal 'rst_down_buffer'
+Slack : 0.102
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'pause_down_buffer'
+Slack : 0.153
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'pause_select_buffer'
+Slack : 0.631
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'clk'
+Slack : 1.361
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'pause_clock_buffer'
+Slack : 3.586
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'lap_stopwatch_buffer'
+Slack : 3.714
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'clk'
+Slack : -3.000
+TNS   : -784.471
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'final_clock'
+Slack : -3.000
+TNS   : -3.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'rst_down_buffer'
+Slack : 0.422
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'pause_clock_buffer'
+Slack : 0.424
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'pause_select_buffer'
+Slack : 0.425
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'lap_stopwatch_buffer'
+Slack : 0.427
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'pause_down_buffer'
+Slack : 0.436
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'clk'
+Slack : -43.974
+TNS   : -2754.340
+
+Type  : Fast 1200mV 0C Model Setup 'pause_select_buffer'
+Slack : -43.165
+TNS   : -754.636
+
+Type  : Fast 1200mV 0C Model Setup 'rst_down_buffer'
+Slack : -2.465
+TNS   : -4.427
+
+Type  : Fast 1200mV 0C Model Setup 'lap_stopwatch_buffer'
+Slack : -2.079
+TNS   : -2.079
+
+Type  : Fast 1200mV 0C Model Setup 'pause_clock_buffer'
+Slack : -1.619
+TNS   : -1.619
+
+Type  : Fast 1200mV 0C Model Setup 'pause_down_buffer'
+Slack : -1.479
+TNS   : -1.479
+
+Type  : Fast 1200mV 0C Model Setup 'final_clock'
+Slack : -1.319
+TNS   : -25.381
+
+Type  : Fast 1200mV 0C Model Hold 'clk'
+Slack : 0.147
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'pause_select_buffer'
+Slack : 0.237
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'final_clock'
+Slack : 0.382
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'rst_down_buffer'
+Slack : 1.402
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'pause_down_buffer'
+Slack : 1.865
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'pause_clock_buffer'
+Slack : 1.998
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'lap_stopwatch_buffer'
+Slack : 2.235
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Recovery 'clk'
+Slack : -2.486
+TNS   : -309.070
+
+Type  : Fast 1200mV 0C Model Recovery 'lap_stopwatch_buffer'
+Slack : -1.971
+TNS   : -1.971
+
+Type  : Fast 1200mV 0C Model Recovery 'pause_clock_buffer'
+Slack : -1.682
+TNS   : -1.682
+
+Type  : Fast 1200mV 0C Model Recovery 'pause_select_buffer'
+Slack : -0.234
+TNS   : -4.814
+
+Type  : Fast 1200mV 0C Model Recovery 'rst_down_buffer'
+Slack : -0.233
+TNS   : -0.320
+
+Type  : Fast 1200mV 0C Model Recovery 'pause_down_buffer'
+Slack : -0.035
+TNS   : -0.035
+
+Type  : Fast 1200mV 0C Model Removal 'rst_down_buffer'
+Slack : 0.025
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'pause_down_buffer'
+Slack : 0.109
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'pause_select_buffer'
+Slack : 0.322
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'clk'
+Slack : 0.491
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'pause_clock_buffer'
+Slack : 2.054
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'lap_stopwatch_buffer'
+Slack : 2.143
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'clk'
+Slack : -3.000
+TNS   : -664.167
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'final_clock'
+Slack : -3.000
+TNS   : -3.227
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'pause_select_buffer'
+Slack : 0.281
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'pause_down_buffer'
+Slack : 0.440
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'rst_down_buffer'
+Slack : 0.446
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'lap_stopwatch_buffer'
+Slack : 0.454
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'pause_clock_buffer'
+Slack : 0.454
+TNS   : 0.000
+
+------------------------------------------------------------

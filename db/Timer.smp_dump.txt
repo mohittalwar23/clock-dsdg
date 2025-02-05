@@ -1,0 +1,5 @@
+
+State Machine - |Timer|select:init|dfault
+Name dfault.01 
+dfault.00 0 
+dfault.01 1 
